@@ -2,9 +2,9 @@ Aplicativo Flutter de catálogo de jogos gratuitos, desenvolvido com **Flutter**
 
 ## Identificação
 
-- **Aluno:** SEU NOME COMPLETO
-- **Turma:** SUA TURMA
-- **Disciplina:** Desenvolvimento Mobile - Flutter
+- **Aluno:** Denny Rondon
+- **Turma:** ADS 2025
+- **Disciplina:** Desenvolvimento de Sistemas Móveis
 
 ## Links
 
